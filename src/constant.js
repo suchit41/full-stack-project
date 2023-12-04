@@ -1,2 +1,2 @@
 
-export const DB_NAME = "full-stack"
+export const DB_NAME = "videotube"
